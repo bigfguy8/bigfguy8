@@ -17,7 +17,7 @@ I build and document practical Android tools for the **Lava Play Ultra 5G (lxx52
 - 🔭 Maintaining TWRP and KernelSU builds for `lxx521`
 - 🧪 Refining clean, repeatable Android modding workflows
 - 💬 Ask me about **TWRP, KernelSU, MediaTek, camera calibration**
-- 📫 Reach me via [GitHub](https://github.com/bigfguy8) <!-- or add: or [email](mailto:you@example.com) -->
+- 📫 Reach me via [GitHub](https://github.com/bigfguy8)
 
 ---
 
@@ -33,17 +33,17 @@ I build and document practical Android tools for the **Lava Play Ultra 5G (lxx52
 
 ## Tech Stack
 
-**Android / Recovery** · `TWRP` `KernelSU` `MT6878`
-**Languages** · `Shell` `Python`
-**Platforms** · `Android` `MediaTek`
+- **Android / Recovery:** `TWRP` `KernelSU` `MT6878`
+- **Languages:** `Shell` `Python`
+- **Platforms:** `Android` `MediaTek`
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bigfguy8&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true" alt="bigfguy8's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigfguy8&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=6" alt="Top languages used by bigfguy8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bigfguy8&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="bigfguy8's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigfguy8&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Top languages used by bigfguy8" />
 </p>
 
 ---
