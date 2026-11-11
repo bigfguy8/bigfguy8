@@ -46,12 +46,10 @@ I build and document practical Android tools for the **Lava Play Ultra 5G (lxx52
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Stats cards fixed for mobile rendering -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bigfguy8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="bigfguy8's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigfguy8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages used by bigfguy8" />
+  <!-- -->
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=bigfguy8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=3" alt="bigfguy8's GitHub stats" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bigfguy8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=3" alt="Top languages used by bigfguy8" />
 </div>
-
----
 
 > ⚠️ **Note:** Android modding carries risk. Always back up your device and understand the steps before flashing custom recovery or root images.
 
